@@ -26,7 +26,7 @@ int main()
         mul=a*b*c;
 
         printf("\n\t\t\t\t=> Sum of three number are %d",sum);
-        printf("\n\n\t\t\t\t\t=> product of three number are %d",mul);
+        printf("\n\n\t\t\t\t\t=> Product of three number are %d",mul);
         printf("\n\n\t\t\t\t\t0000000000000000000000000000000000000000\n");
 
     getch();
