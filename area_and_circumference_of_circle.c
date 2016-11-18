@@ -15,7 +15,7 @@ int main(){
         printf("\nInput Value Of Radius:");
         scanf("%f",&r);
 
-        area=2*3.14*r*r;
+        area=3.14*r*r;
         circumference=2*3.14*r;
 
         printf("\n\nArea of circle is %f.",area);
