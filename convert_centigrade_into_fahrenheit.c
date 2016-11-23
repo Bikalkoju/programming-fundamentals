@@ -3,7 +3,7 @@ Student Name : Bikal Koju
 Roll No. : 03
 Subject : Programming Fundamental
 Lab No. : 05
-Program : Write a c program to 
+Program : Write a c program to convert centigrade into fahrenheit
 Date : 23 nov, 2016
 */
 
