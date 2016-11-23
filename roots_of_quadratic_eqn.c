@@ -8,6 +8,7 @@ Date : 23 nov, 2016
 */
 
 #include<stdio.h>
+#include<conio.h>
 #include<math.h>
 
 int main ()
@@ -26,7 +27,7 @@ int main ()
 			
 			printf("First root is %f.",X1);
 			printf("Second root is %f.",X2);
-
+		getch();
 
 	return 0;
 }
