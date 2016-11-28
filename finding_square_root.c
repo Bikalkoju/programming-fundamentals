@@ -16,7 +16,7 @@ int main(){
         printf("\nEnter any number : ");
         scanf("%f",&a);
 
-        sqrroot=pow(a,0.5);
+        sqrroot=sqrt(a);
 
         printf("\nThe square of number is %.2f.",sqrroot);
     getch();
