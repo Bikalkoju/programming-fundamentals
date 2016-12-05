@@ -37,7 +37,7 @@ int main()
         }
         if(a<35)
         {
-            printf("\n\t\tCONGRATS! You have failed SORRY!");
+            printf("\n\t\tYou have failed SORRY!");
         }
     getch();
 return 0;
